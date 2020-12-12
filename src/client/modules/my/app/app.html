@@ -1,0 +1,8 @@
+<template>
+  <template if:true={isMenuSelected}>
+    <my-menu onswitchsection={handleSwitchSection}></my-menu>
+  </template>
+  <template if:true={isMeetingsSelected}>
+    <my-meetings onswitchsection={handleSwitchSection}></my-meetings>
+  </template>
+</template>
