@@ -5,7 +5,7 @@
     "author": "bergeronl",
     "bugs": "https://github.com/bergeronl/dashboard/issues",
     "dependencies": {
-        "compression": "^1.7.4",
+        "compression": "^1.8.1",
         "express": "^4.17.1",
         "helmet": "^4.2.0"
     },
